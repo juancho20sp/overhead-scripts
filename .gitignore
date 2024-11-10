@@ -1,3 +1,5 @@
 *.zip
 *.pem.*
 venv/
+.env
+*.pem
